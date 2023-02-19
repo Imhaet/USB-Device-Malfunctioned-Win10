@@ -23,3 +23,15 @@ Click Change plan settings
 Click Change advanced power settings
 On USB settings disable USB selectrive suspend setting
 
+Solution 4.
+Remove Power Supply
+Remove your Power Supply plug from your computer
+Restart your PC
+Reconnect the USB device
+Plug in the Power Supply
+
+Solution 5.
+Repair the USB Root Hub
+Open the Device Manager
+Select the USB Root Hub and go to Properties
+On the Power Management tab, uncheck Allow the computer to turn off this device to save power
